@@ -24,3 +24,7 @@ notebooks:
     path: /notebook.ipynb
     otherFiles:
       - /huge_binary.dat
+  - name: empty
+    path: /notebook.ipynb
+    otherFiles:
+      - /empty.txt
