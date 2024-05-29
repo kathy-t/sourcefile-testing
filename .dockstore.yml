@@ -2,13 +2,17 @@ version: 1.2
 notebooks:
   - name: small_utf8
     path: /notebook.ipynb
-    otherFiles: /small_utf8.txt
+    otherFiles:
+      - /small_utf8.txt
   - name: huge_utf8
     path: /notebook.ipynb
-    otherFiles: /huge_utf8.txt
+    otherFiles:
+      - /huge_utf8.txt
   - name: small_binary
     path: /notebook.ipynb
-    otherFiles: /small_binary.dat
+    otherFiles:
+      - /small_binary.dat
   - name: huge_binary
     path: /notebook.ipynb
-    otherFiles: /huge_binary.dat
+    otherFiles:
+      - /huge_binary.dat
