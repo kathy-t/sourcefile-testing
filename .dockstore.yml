@@ -8,6 +8,10 @@ notebooks:
     path: /notebook.ipynb
     otherFiles:
       - /big_utf8.txt
+  - name: huge_utf8
+    path: /notebook.ipynb
+    otherFiles:
+      - /huge_utf8.txt
   - name: small_binary
     path: /notebook.ipynb
     otherFiles:
@@ -16,3 +20,7 @@ notebooks:
     path: /notebook.ipynb
     otherFiles:
       - /big_binary.dat
+  - name: huge_binary
+    path: /notebook.ipynb
+    otherFiles:
+      - /huge_binary.dat
