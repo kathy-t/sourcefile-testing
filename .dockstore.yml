@@ -1,5 +1,9 @@
 version: 1.2
 notebooks:
+  - name: empty
+    path: /notebook.ipynb
+    otherFiles:
+      - /empty.txt
   - name: small_utf8
     path: /notebook.ipynb
     otherFiles:
@@ -24,9 +28,5 @@ notebooks:
     path: /notebook.ipynb
     otherFiles:
       - /huge_binary.dat
-  - name: empty
-    path: /notebook.ipynb
-    otherFiles:
-      - /empty.txt
   - name: big_notebook
     path: /big_notebook.ipynb
