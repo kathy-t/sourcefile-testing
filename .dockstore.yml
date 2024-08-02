@@ -8,6 +8,15 @@ notebooks:
     path: /notebook.ipynb
     otherFiles:
       - /small_utf8.txt
+      - /files/utf-8.txt
+      - /files/2-utf-8.txt
+      - /files/3-utf-8.txt
+      - /files/4-utf-8.txt
+      - /files/5-utf-8.txt
+      - /files/6-utf-8.txt
+      - /files/7-utf-8.txt
+      # - /files/8-utf-8.txt
+      # - /files/9-utf-8.txt
   - name: big_utf8
     path: /notebook.ipynb
     otherFiles:
