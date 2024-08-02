@@ -20,6 +20,10 @@ notebooks:
       - /files/10-utf-8.txt
       - /files/11-utf-8.txt
       - /files/12-utf-8.txt
+      - /files/13-utf-8.txt
+      - /files/14-utf-8.txt
+      - /files/15-utf-8.txt
+      - /files/16-utf-8.txt
   - name: big_utf8
     path: /notebook.ipynb
     otherFiles:
